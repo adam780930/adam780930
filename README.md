@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Adam.
 - 👀 I’m interested in web developing.
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT.JS.
 - 💞️ I’m looking to collaborate on website developing.
 - 📫 How to reach me: Provide feedback on my projects.
 
